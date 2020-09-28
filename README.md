@@ -4,6 +4,8 @@ A simple package to make any UIView or subclass shake vertically or horizontally
 
 ## Installation
 
+### Swift Package Manager
+
 ```
 ```
 
