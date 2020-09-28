@@ -16,7 +16,7 @@ A simple package to make any UIView or subclass shake vertically or horizontally
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2020 Jacob Van Brunt
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
